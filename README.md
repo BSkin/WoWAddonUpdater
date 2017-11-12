@@ -4,6 +4,7 @@ Updates WoW Addons
 1. Add addons.txt in the same path as WoW Addon Updater.py
     
 addons.txt should contain a list of curse links, eg
+
         https://www.curseforge.com/wow/addons/bagnon
         https://www.curseforge.com/wow/addons/bartender4
         https://www.curseforge.com/wow/addons/big-wigs
