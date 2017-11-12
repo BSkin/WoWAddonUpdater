@@ -1,0 +1,2 @@
+# WoWAddonUpdater
+Updates WoW Addons
